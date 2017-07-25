@@ -1,7 +1,7 @@
 # Bag of Visual Words Example
 ---
 
-Implementation of Bag Of Visual Words algorithm in Python I developed for a college workshop.
+Implementation of Bag Of Visual Words algorithm in Python I developed for a college workshop. _It is not a perfect clasificator._
 
 ## Requirements
 * Python 3.36 - [link](https://www.python.org/downloads/release/python-336/)
@@ -15,7 +15,7 @@ Implementation of Bag Of Visual Words algorithm in Python I developed for a coll
 
 I used PyCharm IDE for developing this project - [link](https://www.jetbrains.com/pycharm/)
 
-**You cand edit this project for improve it!**
+**You cand edit this project to improve it!**
 
 ---
 ### License
