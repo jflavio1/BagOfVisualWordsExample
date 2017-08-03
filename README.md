@@ -15,7 +15,7 @@ Implementation of Bag Of Visual Words algorithm in Python I developed for a coll
 
 I used PyCharm IDE for developing this project - [link](https://www.jetbrains.com/pycharm/)
 
-**You cand edit this project to improve it!**
+**You can edit this project to improve it!**
 
 ---
 ### License
